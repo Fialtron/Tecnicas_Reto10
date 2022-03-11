@@ -1,4 +1,4 @@
 # Tecnicas_Reto10
 
-Dina Marcela Reales
+Dina Marcela Reales\
 Juan Moreno
